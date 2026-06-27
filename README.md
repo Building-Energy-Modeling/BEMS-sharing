@@ -10,7 +10,7 @@ This initiative integrates mainstream learning modeling algorithms (such as PINN
 |------------|-------------|
 | [Building Modeling](https://github.com/flexgeb-tf/modeling-dataset) | Building Modeling Methods |
 | [Building Dataset](https://github.com/flexgeb-tf/simulation) | Building Dataset |
-| [Agent](https://github.com/flexgeb-tf/agent) | LLM-based agent for human-interactive modeling |
+| [Building Benchmark](https://github.com/flexgeb-tf/building-benchmark) | Building Modeling Benchmark |
 
 ### Technical Report
 
