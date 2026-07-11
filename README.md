@@ -2,7 +2,6 @@
 
 Welcome to the official website for the IEEE PES Task Force on Building Energy Modeling for Flexible Scheduling.
 
-This initiative integrates mainstream learning modeling algorithms (such as PINN, LLM-based agents, etc.); 2) Visualize modeling results on both building scale and city scale; 3) Provide a standardized workflow to bridge the semantic gap between BIM and power scheduling algorithm, from data extraction, model training, optimization formulation, and problem solving.
 
 ### Repositories
 
